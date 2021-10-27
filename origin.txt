@@ -1,0 +1,60 @@
+Uri: https://aqua.discord-server.space/
+File Name: c:\Downloaded Web Sites\aqua.discord-server.space\index.htm
+Content Type: text/html
+
+Uri: https://aqua.discord-server.space/css/animate.css
+File Name: c:\Downloaded Web Sites\aqua.discord-server.space\css\animate.css
+Content Type: text/css
+
+Uri: https://aqua.discord-server.space/css/bootstrap.css
+File Name: c:\Downloaded Web Sites\aqua.discord-server.space\css\bootstrap.css
+Content Type: text/css
+
+Uri: https://aqua.discord-server.space/css/magnific-popup.css
+File Name: c:\Downloaded Web Sites\aqua.discord-server.space\css\magnific-popup.css
+Content Type: text/css
+
+Uri: https://aqua.discord-server.space/css/style.css
+File Name: c:\Downloaded Web Sites\aqua.discord-server.space\css\style.css
+Content Type: text/css
+
+Uri: https://aqua.discord-server.space/js/particles.min.js
+File Name: c:\Downloaded Web Sites\aqua.discord-server.space\js\particles.min.js
+Content Type: application/javascript
+
+Uri: https://aqua.discord-server.space/js/script.js
+File Name: c:\Downloaded Web Sites\aqua.discord-server.space\js\script.js
+Content Type: application/javascript
+
+Uri: https://aqua.discord-server.space/js/jquery.min.js
+File Name: c:\Downloaded Web Sites\aqua.discord-server.space\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://aqua.discord-server.space/js/jquery.easing.1.3.js
+File Name: c:\Downloaded Web Sites\aqua.discord-server.space\js\jquery.easing.1.3.js
+Content Type: application/javascript
+
+Uri: https://aqua.discord-server.space/js/bootstrap.min.js
+File Name: c:\Downloaded Web Sites\aqua.discord-server.space\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://aqua.discord-server.space/js/jquery.waypoints.min.js
+File Name: c:\Downloaded Web Sites\aqua.discord-server.space\js\jquery.waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://aqua.discord-server.space/js/owl.carousel.min.js
+File Name: c:\Downloaded Web Sites\aqua.discord-server.space\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://aqua.discord-server.space/js/jquery.magnific-popup.min.js
+File Name: c:\Downloaded Web Sites\aqua.discord-server.space\js\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://aqua.discord-server.space/js/magnific-popup-options.js
+File Name: c:\Downloaded Web Sites\aqua.discord-server.space\js\magnific-popup-options.js
+Content Type: application/javascript
+
+Uri: https://aqua.discord-server.space/js/main.js
+File Name: c:\Downloaded Web Sites\aqua.discord-server.space\js\main.js
+Content Type: application/javascript
+
